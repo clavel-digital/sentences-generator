@@ -1,0 +1,16 @@
+{
+  "name": "sentence-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node ./src/pdf.js"
+  },
+  "author": "Verónica Reina Hernández",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
